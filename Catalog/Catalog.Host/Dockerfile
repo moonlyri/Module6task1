@@ -11,8 +11,4 @@ WORKDIR /app
 COPY --from=build /app ./
 ENTRYPOINT ["dotnet", "Catalog.Host.dll"]
 
-#nginx
-FROM nginx:alpine
-COPY nginx.conf /etc/nginx/nginx.conf
-RUN apk update && apk add bash
-ENTRYPOINT ["dotnet", "Catalog.Host.dll"]
+
