@@ -1,0 +1,12 @@
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/moonlyri/Documents/GitHub/Module6/Infrastructure/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll

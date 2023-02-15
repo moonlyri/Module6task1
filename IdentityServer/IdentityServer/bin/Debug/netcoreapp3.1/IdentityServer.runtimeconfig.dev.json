@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/moonlyri/.dotnet/store/|arch|/|tfm|",
+      "/Users/moonlyri/.nuget/packages"
+    ]
+  }
+}
